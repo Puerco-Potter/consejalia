@@ -1,0 +1,47 @@
+
+.navbar-default {
+    border-color: grey;
+}
+
+.curso_lista > .curso_head {
+  background-color: lightgreen;
+}
+
+.curso_lista {
+	border-color: grey;
+	font-size: 120%;
+}
+
+.registro_contenido{
+	text-align: center;
+}
+
+.titulos_asistencias {
+	background-color: lightgreen;
+}
+
+.autogestion {
+	background-color: lightgrey;
+	margin: 10px;
+	padding: 10px;
+}
+
+.verde {
+	background-color: lightgreen;
+}
+
+.azul {
+	background-color: cornflowerblue ;
+}
+
+.rojo {
+	background-color: pink;
+}
+
+.amarillo {
+	background-color: khaki;
+}
+
+.estadisticas {
+	font-size: 130%;
+} 
